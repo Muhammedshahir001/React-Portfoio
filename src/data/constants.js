@@ -1,3 +1,5 @@
+import img from "../images/Screenshot (141).png"
+
 export const Bio = {
   name: "Muahmmed Shahir PN",
   roles: [
@@ -252,8 +254,7 @@ export const projects = [
     date: "Oct 2023 - Nov 2023",
     description:
       "Built MERN-based resort booking platform with Admin, User, and Resort Owner modules,enabling easy property showcase and bookings,Integrated user registration, nodemailer for verification, Razorpay for secure bookings, and Cash on Check- In(COC) for payment flexibility in the resort platform,Streamlined resort owner verification with email links for adding venues, activities, and locations.Admin approval grants access to owner- provided details, Utilized React for frontend development, Node.js and Express.js for backend, MongoDB for data storage, JWT for authentication, and Redux for state management",
-    image:
-      "https://github.com/Muhammedshahir001/Stay-Spot-image/blob/main/Screenshot%20(141).png?raw=true",
+    image:img,
     tags: ["React Js", "MongoDB", "Node JS", "Expree JS", "Redux", "JavaScript", "Razorpay", "Node mailer ", "Chart.js", "Socket.io", "JWT", "Google Authentication"],
     category: "Web App",
     github: "https://github.com/Muhammedshahir001/StaySpot",
