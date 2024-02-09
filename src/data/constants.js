@@ -141,7 +141,7 @@ export const experiences = [
     id: 0,
     img: "https://static.wixstatic.com/media/137b34_951205e52110499b95931ad8a10c450c~mv2.png",
     role: "Mern Stack Developer",
-    company: "Flipr Inovations Pvt. Ltd.",
+    company: "Grand Cafe Production.",
     date: "Nov 2023 - Jan 2023",
     desc: "Working on Rental Platforms, managing Both Frontend and Backend, and Figam design from the scrach.",
     skills: [
@@ -158,6 +158,33 @@ export const experiences = [
       "Tailwind CSS"
     ],
   },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFYbqyDRaXfUWbuB-l3iQ0VwURBy8qGThgVFmS8HPioTamIYPOAYnbr88SWAZx7OfwKc&usqp=CAU",
+    role: "Mern Stack Developer",
+    company: "Brototype.",
+    date: "2023 - 2024",
+    desc: "I have a solid foundation in MERN Stack development, acquired through a successful internship at Brototype. Over the subsequent six months, I accomplished the delivery of two significant projects, in addition to several mini-projects, showcasing my proficiency and commitment in the field.",
+    skills: [
+      "Docker",
+      "AWS",
+      "EC2",
+      "Nginx",
+      "JavaScript",
+      "React Js",
+      "Node Js",
+      "MongoDB",
+      "Express Js",
+      "Figma",
+      "Firebase",
+      "Html",
+      "CSS",
+      "BootStrap",
+      "Data Structures",
+      "C",
+      "Tailwind CSS"
+    ],
+  },
 ];
 
 export const education = [
@@ -170,17 +197,29 @@ export const education = [
     desc: "I am currently pursuing a Plus two in Computer Science  at Jdt Islam Vocational High Secondary School. I have completed my examination  and have a Grade of 72%.",
     degree: "Junior Software Engineer",
   },
-  {
-    id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFYbqyDRaXfUWbuB-l3iQ0VwURBy8qGThgVFmS8HPioTamIYPOAYnbr88SWAZx7OfwKc&usqp=CAU",
-    school: "Brototype",
-    date: "2023 -  2024",
-    desc: "I have completed my course in MERN Stack development, and after six months, I successfully completed two major projects and several mini-projects",
-    degree: "Mern Stack Developer",
-  },
 ];
 
 export const projects = [
+  {
+    id: 3,
+    title: "Video-Chat-App",
+    date: "Jan 2024 - Jan 2024",
+    description:
+      "I developed a Video Chat application using ReactJS for the frontend, incorporating Redux and Redux Toolkit for state management. Leveraging Firebase, I implemented Google Authentication for seamless user logins. The styling is achieved through the Elastic UI framework, ensuring a fully responsive design. For video conferencing, I integrated ZegoCloud, enabling both One-on-One and single-section meetings. The application also features a chat functionality to facilitate communication during meetings. Overall, this project showcases my proficiency in front-end development, state management, authentication, and integration of third-party APIs for real-time communication.",
+    image:
+      "https://github.com/Muhammedshahir001/Stay-Spot-image/blob/main/Screenshot%20(150).png?raw=true",
+    tags: [
+      
+      "React JS",
+      "Redux Tool Kit",
+      "Firebase",
+      "Elastic Ui FrameWork",
+      "Zegocloud",
+    ],
+    category: "web app",
+    github: "https://github.com/Muhammedshahir001/Video-App",
+    webapp: "https://chat-video-vapp.netlify.app/",
+  },
   {
     id: 9,
     title: "Karma Shopping",
@@ -188,7 +227,7 @@ export const projects = [
     description:
       "Developed a sleek eCommerce app with Cart, Wishlist, Store, and Wallet for optimal userexperience,Simplified user transactions, allowing effortless purchase, cancellation, and returns, with easy access to payment invoices and Integrated Razorpay payment gateway to ensure secure and convenient transactions,Empowered admin with efficient controls for seamless management of users, products,categories, coupons, reports, and offers and Proficient in EJS, CSS, Bootstrap, JavaScript, Ajax for frontend, and Node.js, Express.js,MongoDB for backend.Applied Multer, Chart.js, Razor Pay for extra features",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQFphFhX6_oKZQ/profile-treasury-image-shrink_800_800/0/1693663019816?e=1706878800&v=beta&t=tlnKYxeqdrsWSN4pxFkiF_BzGIa4p3_YpCU3Py865n8",
+      "https://github.com/Muhammedshahir001/Stay-Spot-image/blob/main/Screenshot%20(68).png?raw=true",
     tags: [
       
       "AWS",
