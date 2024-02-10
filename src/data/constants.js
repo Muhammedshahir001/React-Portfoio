@@ -12,7 +12,7 @@ export const Bio = {
     "I am a self-taught MERN stack developer based in Calicut, Kerala. I am deeply curious aboutlearning more about developing scalable distributed systems.I have a passion for problemsolving and prioritize writing code that is not only functional but also highly readable andmaintainable.",
   github: "https://github.com/Muhammedshahir001",
   resume:
-    "https://drive.google.com/file/d/15nHHg1xF2eFuI4ye1INsoM30vjujjPhh/view?usp=sharing",
+    "https://drive.google.com/file/d/1IZYxxh1MROPZ7wSRkMTn5710CA_StGsM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shahirmuhammed-shahir-pn-838a22261/",
   twitter: "https://twitter.com/Shahir_003",
   insta: "https://www.instagram.com/mhd_shahir_003?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
